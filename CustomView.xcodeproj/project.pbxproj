@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		107B9A6C2760F93B00755E39 /* TrafficLights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 107B9A6B2760F93B00755E39 /* TrafficLights.swift */; };
 		10D7A0D32760E09F00608790 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D7A0D22760E09F00608790 /* AppDelegate.swift */; };
 		10D7A0D52760E09F00608790 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D7A0D42760E09F00608790 /* SceneDelegate.swift */; };
 		10D7A0D72760E09F00608790 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10D7A0D62760E09F00608790 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		107B9A6B2760F93B00755E39 /* TrafficLights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLights.swift; sourceTree = "<group>"; };
 		10D7A0CF2760E09F00608790 /* CustomView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10D7A0D22760E09F00608790 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10D7A0D42760E09F00608790 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				10D7A0DD2760E0A000608790 /* LaunchScreen.storyboard */,
 				10D7A0E02760E0A000608790 /* Info.plist */,
 				10D7A0E62760E10B00608790 /* CheckBox.swift */,
+				107B9A6B2760F93B00755E39 /* TrafficLights.swift */,
 			);
 			path = CustomView;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10D7A0E72760E10B00608790 /* CheckBox.swift in Sources */,
+				107B9A6C2760F93B00755E39 /* TrafficLights.swift in Sources */,
 				10D7A0D72760E09F00608790 /* ViewController.swift in Sources */,
 				10D7A0D32760E09F00608790 /* AppDelegate.swift in Sources */,
 				10D7A0D52760E09F00608790 /* SceneDelegate.swift in Sources */,
