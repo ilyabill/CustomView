@@ -11,9 +11,14 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("hello")
         // Do any additional setup after loading the view.
     }
 
 
+    @IBAction func didChecked(_ sender: CheckBox) {
+        print("Checkbox \(sender.checked ? "checked" : "unchecked")")
+    }
+    
 }
 
